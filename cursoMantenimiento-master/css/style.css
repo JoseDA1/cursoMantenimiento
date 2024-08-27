@@ -1,12 +1,18 @@
 /* .body{
     background-color: aquamarine;
 } */
+.title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
 .textM{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 26;
     color: burlywood;
 }
 .message{
+    text-align: center;
     width: 80vh;
 }
 .link{
@@ -14,6 +20,13 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic;
     
+}
+.img > img{
+    border-radius: 100px 100px;
+}
+.img{
+    text-align: center;
+
 }
 
 /**{
