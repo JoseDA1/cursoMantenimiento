@@ -1,0 +1,47 @@
+/* .body{
+    background-color: aquamarine;
+} */
+.textM{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 26;
+    color: burlywood;
+}
+.message{
+    width: 80vh;
+}
+.link{
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    
+}
+
+/**{
+    padding:0;
+    margin:0;
+}
+body{
+    height: 100vh;
+    background: rgb(153, 116, 116);
+    display: flex;
+    align-items: center;
+}
+.contenedor{
+    width: 920px;
+    height: 204px;
+    margin: 0 auto;
+    position: relative;
+    background: linear-gradient(rgb(255, 223, 223), white);
+
+}
+.dino{
+    width: 84px;
+    height: 84px;
+    position: absolute;
+    bottom: 22px;
+    left: 42px;
+    z-index:2;
+    background: url("../img/dino.png") repeat-x 0px 0px;
+    background-size: 336px 84px;
+    background-position-x: 0px;
+}*/
